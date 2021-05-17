@@ -1,16 +1,20 @@
 # Zendesk Search App
 ## To run the app
+- Clone the repo
+  ```
+  git clone https://github.com/xianll/zendeskCodingChallenge.git
+  ```
 - Navigate into the project folder
 - Run `npm install` 
   
-```
-npm install
-```
+    ```
+    npm install
+    ```
 - Run `npm run search` 
   
-```
-npm run search
-```
+    ```
+    npm run search
+    ```
 - Follow the instructions in the terminal to navigate through the search app
     - Select to search through Organizations, Tickets or Users
 ![Step One](readMeImg/searchStepOne.png)
